@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/hlaw/codegrid-js.git",
+      "C:\\Users\\ZHF\\Desktop\\cg-test"
+    ]
+  ],
+  "_from": "git+https://github.com/hlaw/codegrid-js.git",
+  "_id": "codegrid-js@git+https://github.com/hlaw/codegrid-js.git#38decfe10dced9006c6b722cc403d7c1217abe98",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/codegrid-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/hlaw/codegrid-js.git",
+    "rawSpec": "git+https://github.com/hlaw/codegrid-js.git",
+    "saveSpec": "git+https://github.com/hlaw/codegrid-js.git",
+    "fetchSpec": "https://github.com/hlaw/codegrid-js.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/hlaw/codegrid-js.git#38decfe10dced9006c6b722cc403d7c1217abe98",
+  "_spec": "git+https://github.com/hlaw/codegrid-js.git",
+  "_where": "C:\\Users\\ZHF\\Desktop\\cg-test",
+  "author": {
+    "name": "hlaw",
+    "email": "hhclaw.eb@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hlaw/codegrid-js/issues"
+  },
+  "dependencies": {},
+  "description": "Javascript function to query country code from coordinates",
+  "devDependencies": {},
+  "directories": {
+    "doc": "doc",
+    "demo": "demo",
+    "tiles": "tiles",
+    "src": "src",
+    "test": "test"
+  },
+  "engine": "node >= 0.6.0",
+  "homepage": "https://github.com/hlaw/codegrid-js/",
+  "keywords": [
+    "codegrid",
+    "openstreetmap"
+  ],
+  "license": "WTFPL",
+  "main": "src/codegrid.js",
+  "name": "codegrid-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hlaw/codegrid-js.git"
+  },
+  "scripts": {
+    "test": "nodejs test/test.js"
+  },
+  "version": "0.0.2"
+}
